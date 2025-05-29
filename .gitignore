@@ -1,2 +1,6 @@
 /venv/*
 /.devcontainer/*
+.dockerignore
+compose.yaml
+README.Docker.md
+Dockerfile
